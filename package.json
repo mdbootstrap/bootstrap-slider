@@ -1,0 +1,28 @@
+{
+  "name": "@mdbootstrap/bootstrap-slider",
+  "version": "1.0.1",
+  "description": "Responsive Sliders built with Bootstrap 5. Range slider bar with label or a carousel image slider? No matter what you are looking for, we've got you covered.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-slider.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "responsive",
+    "slider",
+    "carousel",
+    "responsive-design",
+    "sliders",
+    "carousel-slider",
+    "bootstrap5"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-slider/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/slider/"
+}
